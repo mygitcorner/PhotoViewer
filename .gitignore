@@ -1,0 +1,6 @@
+/bin/
+/PhotoViewer/lib/
+/doc/
+*.db
+.idea/
+out/
